@@ -10,6 +10,6 @@ Natrix_Dev
 
 No instalation required exept [python 3](https://python.org/download) and [telegram desktop](https://desktop.telegram.org)
 
-Just run the [file](https://github.com/natrixdev/telegram-spammer/spammer.py) and complete the required fields than it will start spamming !
+Just run the [file](https://github.com/natrixdev/telegram-spammer/blob/main/spammer.py) and complete the required fields than it will start spamming !
 
 
