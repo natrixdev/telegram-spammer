@@ -24,4 +24,4 @@ Just run the [file](https://github.com/natrixdev/telegram-spammer/blob/main/spam
 
 By [natrixdev](https://github.com/natrixdev) | If you fork this repo please make sure to respect the credits 
 
-- 2022 [@natrixdev](https://github.com/natrixdev) -
+- 2022 [@natrixdev](https://github.com/natrixdev) - Provided to Github by [@NatrixDev. Corp](https://github.com/NatrixDevCorp)
