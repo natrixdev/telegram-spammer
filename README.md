@@ -17,7 +17,7 @@ No instalation required exept [python 3](https://python.org/download) and [teleg
 Just run the [file](https://github.com/natrixdev/telegram-spammer/blob/main/spammer.py) and complete the required fields than it will start spamming !
 
 ## Preview
-![image](https://user-images.githubusercontent.com/88579983/210135739-0b24e275-9e58-4a62-b785-b4a1eb2b4861.png)
+![image](https://user-images.githubusercontent.com/88579983/210135803-89775553-f192-4319-9bdf-5276f8951f2e.png)
 
 
 ## Credits
